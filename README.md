@@ -1,7 +1,7 @@
 # DeepFavored
 A deep learning based method to identify favored(adaptive) mutations in population genomes.
 
-See our [manuscript](https://www.cell.com/cell-reports/fulltext/S2211-1247(22)01179-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124722011792%3Fshowall%3Dtrue) for more details.
+This method is described in the paper: [Ji Tang, Maosheng Huang, Sha He, Junxiang Zeng, Hao Zhu (2022). Uncovering the extensive trade-off between adaptive evolution and disease susceptibility. Cell Reports, Volume 40, Issue 11, 111351](https://doi.org/10.1016/j.celrep.2022.111351). Please cite it if you use our method.
 
 ## Contents
 This directory contains the following:

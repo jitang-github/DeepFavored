@@ -1,3 +1,14 @@
+"""
+* DeepFavored - A deep learning based method to identify favored(adaptive) mutations in population genomes.
+* Copyright (C) 2022 Ji Tang, Hao Zhu
+*
+* This program is licensed for academic research use only
+* unless otherwise stated. Contact jitang1024@outlook.com, zhuhao@smu.edu.cn for
+* commercial licensing options.
+*
+* For use in any publications please cite: Ji Tang, Maosheng Huang, Sha He, Junxiang Zeng, Hao Zhu (2022). Uncovering the extensive trade-off between adaptive evolution and disease susceptibility. Cell Reports, Volume 40, Issue 11, 111351.
+"""
+
 import json
 import os
 import random
